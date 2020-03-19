@@ -1,0 +1,21 @@
+.signin {
+    height: 100%;
+    display: grid;
+}
+
+.vertical-align-content {
+    margin: auto;
+    box-shadow: none !important;
+}
+
+ion-label a {
+    cursor: pointer;
+}
+
+.showhide {
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+
+    cursor: pointer;
+}
